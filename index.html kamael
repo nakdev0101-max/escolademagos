@@ -285,32 +285,32 @@
     -->
     <div class="gallery-grid">
   <figure class="gallery-item">
-    <img src="fotos/rito-salomao.jpg" alt="Ritos com espíritos olímpicos">
+  <img src="rito-salomao.jpg" alt="Rito Salomão">
     <figcaption>Ritos de magia angelical<br><span>Ritos com espíritos olímpicos</span></figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <img src="fotos/rito-kamael.jpg" alt="Arcanjo Kamael">
+ <img src="rito-kamael.jpg" alt="Rito Kamael">
     <figcaption>Ritos de magia angelical<br><span>Arcanjo Kamael</span></figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <img src="fotos/rito-angelical.jpg" alt="Invocação sobre o pentáculo de Salomão">
+  <img src="rito-angelical.jpg" alt="Rito Angelical">
     <figcaption>Ritos de magia angelical<br><span>Invocação sobre o pentáculo de Salomão</span></figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <img src="fotos/rito-michael.jpg" alt="Selo do arcanjo Michael">
+   <img src="rito-michael.jpg" alt="Rito Michael">
     <figcaption>Ritos de magia angelical<br><span>Selo do arcanjo Michael</span></figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <img src="fotos/rito-orobas.jpg" alt="Triângulo da arte e velas consagradas">
+   <img src="rito-orobas.jpg" alt="Rito Orobas">
     <figcaption>Ritual com Orobas<br><span>Triângulo da arte e velas consagradas</span></figcaption>
   </figure>
 
   <figure class="gallery-item">
-    <img src="fotos/rito-gremory.jpg" alt="Altar com oferenda de vinho">
+    <img src="rito-gremory.jpg" alt="Rito Gremory">
     <figcaption>Ritual para Gremory<br><span>Altar com oferenda de vinho</span></figcaption>
   </figure>
 </div>
@@ -319,7 +319,7 @@
 <!-- ===================== SOBRE ===================== -->
 <<section class="section" id="sobre">
   <div class="container about-inner">
-    <img class="about-photo" src="fotos/retrato-mago-caue.jpg" alt="Foto de Caue">
+    <img src="retrato-mago-caue.jpg" alt="Retrato do mago Caue">
     <div class="about-text">
       <p class="eyebrow">Quem conduz</p>
       <h2 class="section-title">Me chamo Caue</h2>
